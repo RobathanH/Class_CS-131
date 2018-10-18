@@ -1,5 +1,7 @@
 open List
 
+(* CONVERT_GRAMMAR *)
+
 (* Helper function for convert_grammar *)
 
 let rec join_rules rules inSym = match rules with
@@ -15,68 +17,59 @@ let convert_grammar gram1 =
 	(startSym, (fun x -> join_rules rules x))
 
 
+(* PARSE_PREFIX *)
 
 (* Symbol type declaration *)
 type ('a, 'b) symbol = 
 	| N of 'a
 	| T of 'b
 
-(* returns the first nonterminal symbol in state (list of symbols) in the format (symbolsBefore, nonterminal, symbolsAfter) *)
-(* state MUST include a nonterminal symbol or it won't work *)
-let rec firstNT state =
-	let current::rest = state in
-	match current with
-		| N _ -> ([], current, rest)
-		| _ ->
-			let (first, mid, last) = firstNT (tl state) in
-			(current::first, mid, last)
+(* 
+Recursively runs through a state (list of symbols), checking that it the given fragment.
+If it encounters a nonterminal symbol, it calls expand_NT, which handles moving down to the next
+level of parse tree, and deploys new check_state instances with the state transformed by each possible rule.
+*)
+let rec check_state curDeriv curState rules accept frag = 
+	match curState with
+	| [] -> accept curDeriv frag
+	| firstSym::restOfState -> 
+		(		
+		match firstSym with
+		| (T rawSym) ->
+			(* First, check that frag is nonempty *)
+			(			
+			match frag with
+			| [] -> None
+			| firstFrag::restOfFrag ->
+				(* Check that first char of state matches first char of frag *)
+				if (rawSym = firstFrag) then
+					check_state curDeriv restOfState rules accept restOfFrag
+				else
+					None
+			)
+		| (N rawSym) ->
+			(* Now we must find all the possible rules from rawSym, and then call expand_NT, which will run check_state with the new states formed by these possible rules *)
+			let possibleDerivs = (rules rawSym) in
+			expand_NT curDeriv possibleDerivs rawSym restOfState rules accept frag
+		)
+(*
+Recursively deploys check_state instances with each possible rule (from the left-most nonterminal) applied.
+*)
+and expand_NT curDerivList possibleDerivs nonT restOfState rules accept frag =
+	match possibleDerivs with
+	| [] -> None (* This occurs only when all derivations from nonT have been exhausted, and all of them returned None *)
+	| deriv::restOfDerivs ->
+		let newDerivList = curDerivList @ [(nonT, deriv)] in
+		let newState = deriv @ restOfState in
+		(* check this new state. If it returns None, we'll try the next deriv in the list *)
+		(
+		match (check_state newDerivList newState rules accept frag) with
+		| None -> expand_NT curDerivList restOfDerivs nonT restOfState rules accept frag
+		| result -> result (* If we get a result != None, then we want to pass that result up the recursion levels all the way to the final result of parse_prefix *)
+		)
 
-(* returns true if the state contains a nonterminal symbol *)
-let rec containsNT state = match state with
-	| [] -> false
-	| (N _)::_ -> true
-	| _ -> containsNT (tl state)
-
-(* given replacement (the rhs of a derivation rule), this will replace the first nonterminal symbol in state with replacement *)
-let applyRule state replacement =
-	let (first, mid, last) = firstNT state in
-	first @ replacement @ last
-
-(* Recursive function in charge of dispatching new instances of the derive function *)
-let rec createNewDerives curDerivTree curState acceptor rules nonT newDerivList frag = match newDerivList with
-	| [] -> None
-	| newDeriv::restOfDerivs ->
-		let newDerivTree = curDerivTree @ [(nonT, newDeriv)] in
-		let newState = applyRule curState newDeriv in
-		let result = derive newDerivTree newState acceptor rules frag in
-		if result = None then
-			createNewDerives curDerivTree curState acceptor rules nonT restOfDerivs frag
-		else
-			result
-
-and derive curDerivTree curState acceptor rules frag =
-	if (containsNT curState) then
-		let (first, N nonT, _) = firstNT curState in
-		match frag with
-			| first::rest ->
-				let possibleDerivs = rules nonT in
-				createNewDerives curDerivTree curState acceptor rules nonT possibleDerivs frag
-			| _ -> None
-	else
-		match frag with
-			| curState::suffix ->
-				acceptor curDerivTree suffix
-			| _ -> None
-
+(* The overall function runs check_state with the basic nonterminal starting state *)
 let parse_prefix gram = match gram with (startNonT, rules) ->
-	(fun accept frag -> derive [] [N startNonT] accept rules frag)
+	(fun accept frag -> check_state [] [N startNonT] rules accept frag)
 
-
-(* TESTS *)
-type awksub_nonterminals =
-  | Expr | Lvalue | Incrop | Binop | Num
-
-let rules = [(Expr, [T "A"; N Expr; T "B"]); (Expr, [N Num]); (Num, [N Expr; T "!"]); (Num, [N Binop]); (Binop, [T "*"]); (Lvalue, [N Num])]
-let startSym = Expr
-let gram = (startSym, rules)
 
