@@ -1,0 +1,3195 @@
+Received message from 127.0.0.1:59522 --- Message: AT Goloman +1393800465.133365 rob +3.3-4.4 150000000.0
+Sending message to 127.0.0.1:59522 --- Message: ? AT Goloman +1393800465.133365 rob +3.3-4.4 150000000.0
+Received message from 127.0.0.1:59750 --- Message: AT Goloman +1393801190.505500 rob +3.3-4.4 150000000.0
+
+Sending message to 127.0.0.1:59750 --- Message: ? AT Goloman +1393801190.505500 rob +3.3-4.4 150000000.0
+Received message from 127.0.0.1:59758 --- Message: AT Goloman +1393801382.849933 rob +3.3-4.4 150000000.0
+
+Sending message to 127.0.0.1:59758 --- Message: ? AT Goloman +1393801382.849933 rob +3.3-4.4 150000000.0
+Received message from 127.0.0.1:59766 --- Message: AT Goloman +1393801415.674120 rob +3.3-4.4 150000000.0
+
+Sending message to 127.0.0.1:59766 --- Message: ? AT Goloman +1393801415.674120 rob +3.3-4.4 150000000.0
+Received message from 127.0.0.1:59774 --- Message: AT Goloman +1393801771.578749 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:59786 --- Message: AT Goloman +1393802103.134974 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:59856 --- Message: AT Goloman +1393802319.097853 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:59870 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59878 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59880 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59890 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59892 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59902 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59904 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59914 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59916 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59926 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59928 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59938 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59940 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59950 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59952 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59962 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59964 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59974 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59976 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59986 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:59988 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:59998 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60000 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60010 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60012 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60022 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60024 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60034 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60036 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60046 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60048 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60058 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60060 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60070 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60072 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60082 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60084 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60094 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60096 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60106 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60108 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60118 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60120 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60130 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60132 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60142 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60144 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60154 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60156 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60166 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60168 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60178 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60180 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60190 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60192 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60202 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60204 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60214 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60220 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60226 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60228 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60238 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60240 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60250 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60252 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60262 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60264 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60274 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60276 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60286 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60290 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60298 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60304 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60308 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60316 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60320 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60328 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60334 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60340 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60346 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60352 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60358 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60364 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60370 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60376 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60380 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60388 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60390 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60400 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60402 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60412 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60414 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60424 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60426 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60436 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60438 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60448 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60450 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60460 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60462 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60472 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60474 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60484 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60486 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60496 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60498 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60508 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60510 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60520 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60522 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60532 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60534 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60544 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60546 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60556 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60558 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60568 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60570 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60580 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60582 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60592 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60594 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60604 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60606 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60616 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60618 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60628 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60630 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60640 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60642 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60652 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60654 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60664 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60666 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60676 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60678 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60688 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60690 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60700 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60702 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60712 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60714 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60724 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60726 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60736 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60738 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60748 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60750 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60760 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60762 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60772 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60774 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60784 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60786 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60796 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60798 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60808 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60810 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60820 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60822 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60832 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60834 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60844 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60846 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60856 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60858 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60868 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60870 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60880 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60882 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60892 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60894 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60904 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60906 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60916 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60918 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60928 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60930 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60940 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60942 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60952 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60954 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60964 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60966 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60976 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60978 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:60988 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:60990 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32768 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32770 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32780 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32782 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32792 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32794 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32804 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32806 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32816 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32818 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32828 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32830 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32840 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32842 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32852 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32854 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32864 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32866 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32876 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32878 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32888 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32890 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32900 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32902 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32912 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32914 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32924 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32926 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32936 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32938 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32948 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32950 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32960 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32962 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32972 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32974 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32984 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32986 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:32996 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:32998 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33008 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33010 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33020 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33022 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33032 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33034 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33044 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33046 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33056 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33058 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33068 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33070 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33080 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33082 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33092 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33094 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33104 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33106 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33116 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33118 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33128 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33130 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33140 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33142 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33152 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33154 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33164 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33166 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33176 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33178 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33188 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33190 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33200 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33202 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33212 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33214 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33224 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33226 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33236 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33238 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33248 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33250 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33260 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33262 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33272 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33274 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33284 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33286 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33296 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33298 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33308 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33310 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33320 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33322 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33332 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33334 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33344 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33346 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33356 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33358 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33368 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33370 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33380 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33382 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33392 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33394 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33404 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33406 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33416 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33418 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33428 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33430 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33440 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33442 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33452 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33454 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33464 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33466 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33476 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33478 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33488 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33490 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33500 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33502 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33512 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33514 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33524 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33526 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33536 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33538 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33548 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33550 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33560 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33562 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33572 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33576 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33584 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33588 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33596 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33600 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33608 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33612 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33620 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33624 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33632 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33636 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33644 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33650 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33656 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33658 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33668 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33670 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33680 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33682 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33692 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33694 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33704 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33706 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33716 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33718 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33728 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33730 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33740 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33742 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33752 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33754 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33764 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33766 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33776 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33778 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33788 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33790 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33800 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33802 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33812 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33816 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33824 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33828 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33834 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33842 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33844 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33854 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33860 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33866 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33872 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33878 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33884 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33890 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33896 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33902 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33906 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33914 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33920 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33926 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33928 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33938 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33940 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33950 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33952 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33962 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33964 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33974 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Received message from 127.0.0.1:33976 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33986 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:33988 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:33998 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34000 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34010 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34012 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34022 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34026 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34034 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34040 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34046 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34052 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34058 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34064 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34070 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34072 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34082 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34084 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34094 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34096 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34106 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34108 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34118 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34120 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34130 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34132 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34142 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34144 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34154 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34156 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34166 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34168 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34178 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34180 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34190 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34192 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34202 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34204 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34214 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34216 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34226 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34228 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34238 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34240 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34250 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34252 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34262 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34264 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34274 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34276 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34286 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34288 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34298 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34300 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34310 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34312 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34322 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34324 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34334 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34336 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34346 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34348 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34358 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34360 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34370 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34372 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34382 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34384 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34394 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34396 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34406 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34408 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34418 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34420 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34430 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34432 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34442 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34444 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34454 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34456 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34466 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34468 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34478 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34480 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34490 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34492 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34502 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34504 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34514 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34516 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34526 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34528 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34538 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34540 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34550 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34552 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34562 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34564 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34574 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34576 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34586 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34588 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34598 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34600 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34610 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34612 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34622 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34624 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34634 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34636 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34646 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34648 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34658 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34660 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34670 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34672 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34682 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:34684 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:34690 --- Message: AT Goloman +1393802641.822810 rob +3.3-4.4 150000000.0
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802641.822810 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34698 --- Message: AT Goloman +1393802641.822810 rob +3.3-4.4 150000000.0
+Received message from 127.0.0.1:34730 --- Message: AT Wilkes +1542303453.920545 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Goloman: 127.0.0.1:11710
+Received message from 127.0.0.1:34734 --- Message: AT Wilkes +1542303453.920545 rob +3.3-4.4 1500000.0
+Sending message: AT Wilkes +1542303453.920545 rob +3.3-4.4 1500000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34748 --- Message: AT Wilkes +1542303593.048615 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Goloman: 127.0.0.1:11710
+Received message from 127.0.0.1:34752 --- Message: AT Wilkes +1542303593.048615 rob +3.3-4.4 1500000.0
+Sending message: AT Wilkes +1542303593.048615 rob +3.3-4.4 1500000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34762 --- Message: AT Wilkes +1542303903.864927 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Goloman: 127.0.0.1:11710
+Received message from 127.0.0.1:34766 --- Message: AT Wilkes +1542303903.864927 rob +3.3-4.4 1500000.0
+Sending message: AT Wilkes +1542303903.864927 rob +3.3-4.4 1500000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:34778 --- Message: AT Wilkes +1542304041.839998 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Wilkes +1542304041.839998 rob +3.3-4.4 1500000.0
+Closing connection.
+Received message from 127.0.0.1:34786 --- Message: AT Wilkes +1542304125.809409 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Goloman: 127.0.0.1:11710
+Received message from 127.0.0.1:34790 --- Message: AT Wilkes +1542304125.809409 rob +3.3-4.4 1500000.0
+Sending message: AT Wilkes +1542304125.809409 rob +3.3-4.4 1500000.0
+Closing connection.
+Received message from 127.0.0.1:34816 --- Message: AT Wilkes +1542304300.573625 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Goloman: 127.0.0.1:11710
+Received message from 127.0.0.1:34820 --- Message: AT Wilkes +1542304300.573625 rob +3.3-4.4 1500000.0
+Sending message: AT Wilkes +1542304300.573625 rob +3.3-4.4 1500000.0
+Closing connection.
+Received message from 127.0.0.1:34870 --- Message: AT Goloman +0.000526 rob +33.3-44.4 1543807289.4572592
+Propogating Information. Blacklist: Goloman
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +0.000526 rob +33.3-44.4 1543807289.4572592
+Closing connection.
+Received message from 127.0.0.1:34878 --- Message: AT Goloman +0.000526 rob +33.3-44.4 1543807289.4572592
+Received message from 127.0.0.1:34882 --- Message: WHATSAT rob 10 5
+Sending message to 127.0.0.1:34882 --- Message: AT Goloman +0.000526 rob +33.3-44.4 1543807289.4572592
+DUMMY JSON RESPONSE FROM GOOGLE
+Received message from 127.0.0.1:34896 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Propogating Information. Blacklist: Wilkes
+Opening connection with Goloman: 127.0.0.1:11710
+Received message from 127.0.0.1:34898 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Sending message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Closing connection.
+Received message from 127.0.0.1:34922 --- Message: WHATSAT rob 10 5
+Sending message to 127.0.0.1:34922 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+DUMMY JSON RESPONSE FROM GOOGLE
+Received message from 127.0.0.1:34930 --- Message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Propogating Information. Blacklist: Holiday
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Closing connection.
+Received message from 127.0.0.1:34940 --- Message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Received message from 127.0.0.1:34944 --- Message: WHATSAT rob 10 5
+Sending message to 127.0.0.1:34944 --- Message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+DUMMY JSON RESPONSE FROM GOOGLE
+Received message from 127.0.0.1:34952 --- Message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Propogating Information. Blacklist: Holiday
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Closing connection.
+Received message from 127.0.0.1:34964 --- Message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Received message from 127.0.0.1:34966 --- Message: WHATSAT rob 10 5
+Sending message to 127.0.0.1:34966 --- Message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+DUMMY JSON RESPONSE FROM GOOGLE
+Received message from 127.0.0.1:34974 --- Message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Propogating Information. Blacklist: Holiday
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Received message from 127.0.0.1:34984 --- Message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Sending message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Closing connection.
+Received message from 127.0.0.1:34998 --- Message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Propogating Information. Blacklist: Holiday
+Opening connection with Goloman: 127.0.0.1:11710
+Received message from 127.0.0.1:35004 --- Message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Sending message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Closing connection.
+Received message from 127.0.0.1:35026 --- Message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Propogating Information. Blacklist: Welsh
+Opening connection with Goloman: 127.0.0.1:11710
+Received message from 127.0.0.1:35030 --- Message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Sending message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Closing connection.
+Received message from 127.0.0.1:35616 --- Message: IAMAT rob +53.2734-7.77832031 1543863877.797792
+Sending message to 127.0.0.1:35616 --- Message: AT Hands +0.000552 rob +53.2734-7.77832031 1543863877.797792
+Propogating Information to all connected servers.
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Hands +0.000552 rob +53.2734-7.77832031 1543863877.797792
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.

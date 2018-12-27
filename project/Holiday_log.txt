@@ -1,0 +1,71 @@
+Received message from 127.0.0.1:56736 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Propogating Information. Blacklist: Wilkes
+Opening connection with Goloman: 127.0.0.1:11710
+Received message from 127.0.0.1:56738 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Sending message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Closing connection.
+Opening connection with Welsh: 127.0.0.1:11713
+Sending message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Closing connection.
+Received message from 127.0.0.1:56746 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Received message from 127.0.0.1:56754 --- Message: WHATSAT rob 10 5
+Sending message to 127.0.0.1:56754 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+DUMMY JSON RESPONSE FROM GOOGLE
+Received message from 127.0.0.1:56760 --- Message: IAMAT rob +33.3-44.4 1543807648.505802
+Sending message to 127.0.0.1:56760 --- Message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Propogating Information to all connected servers.
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Closing connection.
+Opening connection with Welsh: 127.0.0.1:11713
+Sending message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Closing connection.
+Received message from 127.0.0.1:56782 --- Message: IAMAT rob +33.3-44.4 1543807666.267184
+Sending message to 127.0.0.1:56782 --- Message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Propogating Information to all connected servers.
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Closing connection.
+Opening connection with Welsh: 127.0.0.1:11713
+Sending message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Closing connection.
+Received message from 127.0.0.1:56804 --- Message: IAMAT rob +33.3-44.4 1543807674.168881
+Sending message to 127.0.0.1:56804 --- Message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Propogating Information to all connected servers.
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Closing connection.
+Opening connection with Welsh: 127.0.0.1:11713
+Sending message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Closing connection.
+Received message from 127.0.0.1:56826 --- Message: IAMAT rob +53.2734-7.77832031 1543807886.911485
+Sending message to 127.0.0.1:56826 --- Message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Propogating Information to all connected servers.
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Closing connection.
+Opening connection with Welsh: 127.0.0.1:11713
+Sending message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Closing connection.
+Received message from 127.0.0.1:56856 --- Message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Propogating Information. Blacklist: Welsh
+Opening connection with Goloman: 127.0.0.1:11710
+Sending message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Closing connection.
+Received message from 127.0.0.1:56870 --- Message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Received message from 127.0.0.1:56868 --- Message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002

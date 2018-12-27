@@ -1,0 +1,247 @@
+Received message from 127.0.0.1:45540 --- Message: IAMAT rob +3.3-4.4 150000000
+Sending message to 127.0.0.1:45540 --- Message: AT Goloman +1393802103.134974 rob +3.3-4.4 150000000.0
+Propogating Information to all connected servers.
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Goloman +1393802103.134974 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:45610 --- Message: IAMAT rob +3.3-4.4 150000000
+Sending message to 127.0.0.1:45610 --- Message: AT Goloman +1393802319.097853 rob +3.3-4.4 150000000.0
+Propogating Information to all connected servers.
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Goloman +1393802319.097853 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:45624 --- Message: IAMAT rob +3.3-4.4 150000000
+Sending message to 127.0.0.1:45624 --- Message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Propogating Information to all connected servers.
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802500.407284 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:48676 --- Message: IAMAT rob +3.3-4.4 150000000
+Sending message to 127.0.0.1:48676 --- Message: AT Goloman +1393802641.822810 rob +3.3-4.4 150000000.0
+Propogating Information to all connected servers.
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Goloman +1393802641.822810 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +1393802641.822810 rob +3.3-4.4 150000000.0
+Closing connection.
+Error connecting! Moving on.
+Received message from 127.0.0.1:48716 --- Message: AT Wilkes +1542303453.920545 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Wilkes +1542303453.920545 rob +3.3-4.4 1500000.0
+Closing connection.
+Error connecting! Moving on.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Received message from 127.0.0.1:48726 --- Message: AT Wilkes +1542303453.920545 rob +3.3-4.4 1500000.0
+Received message from 127.0.0.1:48734 --- Message: AT Wilkes +1542303593.048615 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Wilkes +1542303593.048615 rob +3.3-4.4 1500000.0
+Closing connection.
+Error connecting! Moving on.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Received message from 127.0.0.1:48744 --- Message: AT Wilkes +1542303593.048615 rob +3.3-4.4 1500000.0
+Received message from 127.0.0.1:48748 --- Message: AT Wilkes +1542303903.864927 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Wilkes +1542303903.864927 rob +3.3-4.4 1500000.0
+Closing connection.
+Error connecting! Moving on.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Received message from 127.0.0.1:48758 --- Message: AT Wilkes +1542303903.864927 rob +3.3-4.4 1500000.0
+Received message from 127.0.0.1:48764 --- Message: AT Wilkes +1542304041.839998 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Wilkes +1542304041.839998 rob +3.3-4.4 1500000.0
+Closing connection.
+Received message from 127.0.0.1:48768 --- Message: AT Wilkes +1542304041.839998 rob +3.3-4.4 1500000.0
+Received message from 127.0.0.1:48772 --- Message: AT Wilkes +1542304125.809409 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Wilkes +1542304125.809409 rob +3.3-4.4 1500000.0
+Closing connection.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Received message from 127.0.0.1:48782 --- Message: AT Wilkes +1542304125.809409 rob +3.3-4.4 1500000.0
+Received message from 127.0.0.1:48802 --- Message: AT Wilkes +1542304300.573625 rob +3.3-4.4 1500000.0
+Propogating Information. Blacklist: Wilkes
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Wilkes +1542304300.573625 rob +3.3-4.4 1500000.0
+Closing connection.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Received message from 127.0.0.1:48810 --- Message: AT Wilkes +1542304300.573625 rob +3.3-4.4 1500000.0
+Received message from 127.0.0.1:48854 --- Message: IAMAT rob +33.3,-44.4 1543807216.395146
+Sending message to 127.0.0.1:48854 --- Message: ? IAMAT rob +33.3,-44.4 1543807216.395146
+Received message from 127.0.0.1:48856 --- Message: IAMAT rob +33.3-44.4 1543807289.4572592
+Sending message to 127.0.0.1:48856 --- Message: AT Goloman +0.000526 rob +33.3-44.4 1543807289.4572592
+Propogating Information to all connected servers.
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Goloman +0.000526 rob +33.3-44.4 1543807289.4572592
+Closing connection.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Goloman +0.000526 rob +33.3-44.4 1543807289.4572592
+Closing connection.
+Received message from 127.0.0.1:48882 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Propogating Information. Blacklist: Wilkes
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Closing connection.
+Opening connection with Holiday: 127.0.0.1:11712
+Sending message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Closing connection.
+Received message from 127.0.0.1:48892 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Received message from 127.0.0.1:48894 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+Received message from 127.0.0.1:48902 --- Message: WHATSAT rob 10 5
+Sending message to 127.0.0.1:48902 --- Message: AT Wilkes +0.000552 rob +33.3-44.4 1543807583.9572637
+DUMMY JSON RESPONSE FROM GOOGLE
+Received message from 127.0.0.1:48914 --- Message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Propogating Information. Blacklist: Holiday
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Closing connection.
+Received message from 127.0.0.1:48924 --- Message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Received message from 127.0.0.1:48926 --- Message: AT Holiday +0.000459 rob +33.3-44.4 1543807648.505802
+Received message from 127.0.0.1:48936 --- Message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Propogating Information. Blacklist: Holiday
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Closing connection.
+Received message from 127.0.0.1:48946 --- Message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Received message from 127.0.0.1:48948 --- Message: AT Holiday +0.000460 rob +33.3-44.4 1543807666.267184
+Received message from 127.0.0.1:48958 --- Message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Propogating Information. Blacklist: Holiday
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Closing connection.
+Received message from 127.0.0.1:48968 --- Message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Received message from 127.0.0.1:48970 --- Message: AT Holiday +0.000471 rob +33.3-44.4 1543807674.168881
+Received message from 127.0.0.1:48980 --- Message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Propogating Information. Blacklist: Holiday
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Closing connection.
+Received message from 127.0.0.1:48990 --- Message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Received message from 127.0.0.1:48994 --- Message: AT Holiday +0.000559 rob +53.2734-7.77832031 1543807886.911485
+Received message from 127.0.0.1:49010 --- Message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Propogating Information. Blacklist: Welsh
+Opening connection with Hands: 127.0.0.1:11711
+Sending message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Closing connection.
+Opening connection with Holiday: 127.0.0.1:11712
+Received message from 127.0.0.1:49016 --- Message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Sending message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Closing connection.
+Opening connection with Wilkes: 127.0.0.1:11714
+Sending message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Closing connection.
+Received message from 127.0.0.1:49026 --- Message: AT Welsh +0.000434 rob +53.2734-7.77832031 1543808223.7263002
+Received message from 127.0.0.1:49452 --- Message: IAMAT rob +53.2734-7.77832031 1543863739.01517
+Sending message to 127.0.0.1:49452 --- Message: AT Goloman +0.000572 rob +53.2734-7.77832031 1543863739.01517
+Propogating Information to all connected servers.
+Opening connection with Hands: 127.0.0.1:11711
+Error connecting! Moving on.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:49460 --- Message: WHATSAT rob 10 5
+Received message from 127.0.0.1:49592 --- Message: IAMAT rob +53.2734-7.77832031 1543863797.4280362
+Sending message to 127.0.0.1:49592 --- Message: AT Goloman +0.000564 rob +53.2734-7.77832031 1543863797.4280362
+Propogating Information to all connected servers.
+Opening connection with Hands: 127.0.0.1:11711
+Error connecting! Moving on.
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:49600 --- Message: WHATSAT rob 10 5
+Sending message to 127.0.0.1:49600 --- Message: AT Goloman +0.000564 rob +53.2734-7.77832031 1543863797.4280362
+{
+   "status": "OK",
+   "results": [
+      {
+         "scope": "GOOGLE",
+         "id": "db0e08174c2a144a60a12d857aab3876f523d89a",
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "name": "Kilcolgan Beg",
+         "place_id": "ChIJJ-yNfB1TXEgR1v1ce495IZo",
+         "reference": "ChIJJ-yNfB1TXEgR1v1ce495IZo",
+         "geometry": {
+            "viewport": {
+               "southwest": {
+                  "lat": 53.2566181,
+                  "lng": -7.779099199999999
+               },
+               "northeast": {
+                  "lat": 53.27674099999999,
+                  "lng": -7.756729900000001
+               }
+            },
+            "location": {
+               "lat": 53.271591,
+               "lng": -7.7696577
+            }
+         },
+         "types": [
+            "neighborhood",
+            "political"
+         ]
+      }
+   ],
+   "html_attributions": []
+}
+
+Received message from 127.0.0.1:49606 --- Message: AT Hands +0.000552 rob +53.2734-7.77832031 1543863877.797792
+Propogating Information. Blacklist: Hands
+Opening connection with Holiday: 127.0.0.1:11712
+Error connecting! Moving on.
+Opening connection with Wilkes: 127.0.0.1:11714
+Error connecting! Moving on.
+Received message from 127.0.0.1:49614 --- Message: WHATSAT rob 10 5
+Sending message to 127.0.0.1:49614 --- Message: AT Hands +0.000552 rob +53.2734-7.77832031 1543863877.797792
+{
+   "status": "OVER_QUERY_LIMIT",
+   "results": [],
+   "error_message": "You have exceeded your daily request quota for this API. If you did not set a custom daily request quota, verify your project has an active billing account: http://g.co/dev/maps-no-account",
+   "html_attributions": []
+}
+
